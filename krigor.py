@@ -1,0 +1,1 @@
+print("Olá mundo eu sou o krigor")
